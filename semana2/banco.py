@@ -11,7 +11,7 @@ class banco():
   banca_movil = None
   prestamos = None
  
-  
+    
   def __init__(self):
     print("Clase banco.")
   
