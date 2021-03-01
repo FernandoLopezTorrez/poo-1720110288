@@ -8,7 +8,7 @@ class asistencias:
     repetir = "s"
     retardos = 0
     while repetir == "s":
-      materia = input("introduze el nombre de la materia: ")
+      materia = input("Introduze el nombre de la materia: ")
       NombreAlumno = input("Introduce el nombre del alumno: ")
       NumeroClases = int(input("Introduce la cantidad de clases: "))
       NumeroFaltas = int(input("Introduce la cantidad de faltas: "))
